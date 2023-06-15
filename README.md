@@ -9,10 +9,22 @@ skills:
   {
     languages: ["Java", "C#", "Python"]
     others: ["Git"]
+    currently_learning: ["Machine Learning", "Dash", "React"]
   }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=synthwave)]
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true" />
+</picture>
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
