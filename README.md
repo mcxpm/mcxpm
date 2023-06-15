@@ -12,7 +12,7 @@ skills:
   }
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcxpm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=synthwave)]
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
