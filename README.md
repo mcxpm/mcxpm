@@ -11,6 +11,9 @@ skills:
     others: ["Git"]
   }
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcxpm)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
