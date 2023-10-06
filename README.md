@@ -12,11 +12,13 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcxpm&show_icons=true&locale=en&layout=compact" alt="mcxpm" /></p>
+<div>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mcxpm&show_icons=true&locale=en&layout=compact" alt="mcxpm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=tokyonight&locale=en" alt="mcxpm" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=tokyonight&locale=en" alt="mcxpm" /></p>
 
-<p><img align="rightr" src="https://github-readme-streak-stats.herokuapp.com/?user=mcxpm&" alt="mcxpm" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mcxpm&" alt="mcxpm" /></p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
