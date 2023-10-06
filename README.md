@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Markus Lim</h1>
 <h3 align="center">Aspiring full-stack developer | Passionate about solving real-world issues with code</h3>
 
@@ -12,11 +11,10 @@
 </p>
 
 
-<div>
-<p><img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=mcxpm&show_icons=true&locale=en&layout=compact" alt="mcxpm" /></p>
 
-<p>&nbsp;<img align='right' src="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=tokyonight&locale=en" alt="mcxpm" /></p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcxpm&show_icons=true&locale=en&layout=compact" alt="mcxpm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcxpm&show_icons=true&theme=tokyonight&locale=en" alt="mcxpm" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
