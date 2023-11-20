@@ -3,7 +3,7 @@
 
 - 📖 I'm currently pursuing Computer Science and Technology Management, under Renaissance Engineering Programme in NTU
 
-- 🌱 I’m currently learning **Flutter, Nextjs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **markuslec@gmail.com**
 
