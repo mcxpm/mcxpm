@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Markus Lim</h1>
-<h3 align="center">Aspiring full-stack developer | Passionate about solving real-world issues with code</h3>
+<h3 align="center">Aspiring full-stack developer | Solving real-world issues with code</h3>
 
 - 📖 I'm currently pursuing Computer Science and Technology Management, under Renaissance Engineering Programme in NTU
 
