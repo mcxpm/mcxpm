@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Markus Lim</h1>
 <h3 align="center">Aspiring full-stack developer | Solving real-world issues with code</h3>
 
-- 📖 I'm currently pursuing Computer Science and Technology Management, under Renaissance Engineering Programme in NTU
+- 📖 I'm currently pursuing Computer Science and Technology Management, under Renaissance Engineering Programme in NTU.
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **NextJS, GAN**
 
-- 📫 How to reach me **markuslec@gmail.com**
+- 📫 Reach me at **markuslec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
