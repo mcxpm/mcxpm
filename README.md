@@ -3,9 +3,7 @@
 
 - 📖 I'm currently pursuing Computer Science and Technology Management, under Renaissance Engineering Programme in NTU.
 
-- 🌱 I’m currently learning **GAN, Rust**
-
-- 📫 Reach me at **markuslec@gmail.com**
+- 📫 Reach me at **markuslec@berkeley.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
